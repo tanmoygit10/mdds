@@ -25,7 +25,7 @@ import com.java.mdds.special.repo.MddsMedicalSpecialTyperepo;
 
 @RestController
 @RequestMapping("/v1" )
-//controller  vhg  rtey
+//controller  vhg  rtey hhh
 
 public class mddsserviceController {
 	@Autowired
